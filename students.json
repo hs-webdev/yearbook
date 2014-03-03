@@ -1,11 +1,17 @@
 [
   {
-    "name": "Harry"
+    "first": "Harry",
+    "last": "Potter",
+    "hometown": "London"
   },
   {
-    "name": "Hermione"
+    "first": "Hermione",
+    "last": "Granger",
+    "hometown": "London"
   },
   {
-    "name": "Ron"
+    "first": "Ron",
+    "last": "Weasley",
+    "hometown": "London"
   }
 ]
